@@ -5,3 +5,6 @@
 ```
 <p>Some text</p>
 ```
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
